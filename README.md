@@ -14,4 +14,4 @@
 <br>
 
 > **flow chart**
-<img src="https://user-images.githubusercontent.com/106156087/173974991-5c0288ba-7775-4c4a-a2fa-ab9a89994333.png" width="500">
+<img src="https://user-images.githubusercontent.com/106156087/173974991-5c0288ba-7775-4c4a-a2fa-ab9a89994333.png" width="700">
